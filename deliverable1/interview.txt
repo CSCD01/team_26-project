@@ -1,0 +1,18 @@
+Deliverable 1 - Interview plan
+
+1) Overall Architecture 6/6
+
+i)   major components and their tasks -- 2/2
+
+ii) how components interact with each other -- 2/2
+
+iii) something cool (or something bad!) about the design -- 2/2
+
+2) Software Process 3/4
+
+i) explain the software process the team is planning to use -- 1/2
+
+One member seems unclear about the process they chose.
+
+ii) explain WHY this particular software process is suitable for
+  this particular team for this particular project -- 2/2

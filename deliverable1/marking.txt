@@ -1,0 +1,32 @@
+CSC D01 Deliverable #1 Marking Rubric
+
+38/40
+
+Overall architecture: __13_ / 15
+
+   __5_ / 5 It is clear to the reader that the team correctly
+           understands the architecture of the project.
+
+   __5_ / 5 A reader, initially unfamiliar with the architecture of the
+           project, has a good overview of the project structure after
+           reading the report.
+
+   __3_ / 5 UML diagrams are correct, clear, and helpful.
+
+Too simple diagrams, didn't clear show the interaction between different components.
+
+Software Process: __15_ / 15
+
+   __7_ / 7 Every aspect of the software process is explained to an adequate
+           level of detail.
+
+   __8_ / 8 There is a thorough explanation of why this particular
+           process works for this particular team. The arguments for
+           the choice of the process and any modifications are
+           well-informed and well explained. The pros and cons of
+           different processes are carefully considered.
+
+
+
+Presentation and Quality of Writing: __10_ / 10
+
