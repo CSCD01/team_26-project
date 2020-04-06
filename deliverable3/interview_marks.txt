@@ -1,0 +1,19 @@
+1. Describe the first examined feature, both describing the function and the code that would need to be modified (but not HOW it would need to be modified).
+
+2/2
+
+2. Describe the second examined feature, both describing the function and the code that would need to be modified (but not HOW it would need to be modified).
+
+2/2
+
+3.Explain the reasons for choosing one of these features to implement
+
+1/1
+
+4.  explain the testing strategy
+
+2/2
+
+5.  Explain the interesting/cool parts (or bad decisions!) of the architecture
+
+3/3
