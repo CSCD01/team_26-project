@@ -1,0 +1,62 @@
+Team #:
+Team name: 
+
+
+Deliverable:  / 120
+
+
+Implementation:  _36_ / 40
+
+  Correctness: _20_ / 20
+
+  Good SE:     _16_ / 20
+  
+    Quality, maturity, style, documentation of the code. This is a
+    fourth year course; please, ensure high standards here.
+
+  -2: Comment out original code instead of removing it and providing explantion is not approriate here.
+  -2: Expect some (but not many) inline comments to explain some of your code/test cases.
+
+
+Testing:  _20_ / 20
+
+   Unit testing: _10_  / 10
+
+   Acceptance testing: _10_ / 10
+
+   Documentation of the testing strategy should be included in the marking.
+
+
+User Guide(s):  _10_ / 10
+
+   Clarity, professionalism, adherence to the project standards and style.
+
+Design Document:  _10_ / 10
+
+   Mature description of the software architecture, including specific
+   strengths and weaknesses.
+
+
+Process:  _18_ / 20
+
+  Process specifics:  _10_ / 10
+  
+    The process works for this particular team for this particular process.
+    The choices are explained well.
+    The process is laid out clearly in the report.
+    The artefacts are presented.
+  
+  Good use of repo:   _5_ / 5
+     There should be evidence of a specific workflow adopted and enforced by the team.
+
+  Good use of appropriate process management tools:  _3_ / 5
+
+  -2: Do expect to see some more clear evidence about using some tools to track the process.
+
+Amount of work done compared with other teams (NOT number of feature,
+but overall contribution):  __ / 10
+
+(Anya will fill this part)
+
+   
+Presentation and quality of writing:  _10_ 10 

@@ -1,0 +1,22 @@
+1. Go over a detailed description of their feature (without implementation details).
+- They should be able to explain - what the feature is/does;
+- Why it is needed/useful;
+- What is the impact of the proposed change in the project.
+
+2/2
+
+2. Go over a technical explanation of how the feature was implemented, showing the relevant code in their repo.
+
+2/2
+
+3. Go over the software architecture of the project, including pointing out good (and bad!) aspects, as well as how the contribution fits into the existing architecture and why particular decisions were made by the team.
+
+2/2
+
+4. Run/demonstrate the unit/acceptance tests for this feature and explain the results. Talk about their regression testing process.
+
+2/2
+
+5. Give a final overview of the software engineering process used by the team. Show the evidence of this process where appropriate.
+
+2/2
